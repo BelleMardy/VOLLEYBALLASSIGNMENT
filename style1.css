@@ -1,0 +1,39 @@
+
+
+
+h1 {
+    font-family: Bell MT;
+    font-size: medium;
+}
+
+h2{
+    font-family: Baskerville Old Face;
+}
+
+
+
+body {
+    font-family: Arial;
+    font-size: xx-large;
+    background-color: sandybrown;
+    border-style: dashed; border-color: gold;
+    padding: 30px;
+}
+
+a:link {
+    color: black
+
+}
+
+
+ul {
+
+    font-weight: bold;
+    font-style: italic;
+}
+
+li {
+    color: mediumpurple;
+    font-weight: bold;
+    font-style: italic;
+}
